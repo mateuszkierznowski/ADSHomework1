@@ -15,3 +15,4 @@ split inOrder list by A:
        DBE     FC
        
  Code uses that dependecy by recurension such as every time first element of preOrder list is removed.
+ T
